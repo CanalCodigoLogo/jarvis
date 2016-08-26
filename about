@@ -1,0 +1,4 @@
+This project will use .Net Framework for development, but Python, Java, or others languages are welcome, my goal is to create something,
+able to understand natural language, The main language will be C#, because, are a lot of requesites for this, C# have a good, not perfect 
+API for Speech Recogniton, the System.Speech.Recognition, able to recognize dictation in some languages like English and Spanish, and the
+Microsoft.Speech.Recogntion, that can recognize very well commands. 
